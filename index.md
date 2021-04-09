@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-You can use the [editor on GitHub](https://github.com/visitantee0-github-io/visitantee0.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <!-- غير الصورة المصغرة -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico"> 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+  <!-- visitante  -->
+  <title> غير هذا النص </title> 
+  <meta name="title" content="visitante">
+  <meta property="twitter:title" content="visitante"> 
+  <meta property="og:title" content="visitante">
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+  <!-- ضع الوصف الخاص بك هنا  -->
+  <meta name="description" content="غير هذا النص">
+  <meta property="og:description" content="غير هذا النص">
+  <meta property="twitter:description" content="غير هذا النص">
 
-**Bold** and _Italic_ and `Code` text
+  <!-- ضع الرابط المرفوع عليه الموقع -->
+  <meta property="og:url" content="ضع الرابط كامل">
+  <meta property="twitter:url" content="ضع الرابط كامل">
 
-[Link](url) and ![Image](src)
-```
+  <!-- رابط الصورة المعروضة في اللينك -->
+  <meta property="og:image" content="رابط الصورة">
+  <meta property="twitter:image" content="رابط الصورة">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="og:type" content="website">
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/visitantee0-github-io/visitantee0.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<link rel="stylesheet" href="styles.5771a2cc6249767cd5d0.css"></head>
+<body>
+  <app-root></app-root>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  <script>
+
+    const URL = "https://www.google.com"; // أدخل الرابط الخاص بك هنا 
+
+    document.cookie = `rURL=${URL}`;
+
+  </script>
+<script src="runtime.0e49e2b53282f40c8925.js" defer></script><script src="polyfills.8c151b8375e767ff858f.js" defer></script><script src="main.5fc8cac372283f30c6ba.js" defer></script></body>
+</html>
